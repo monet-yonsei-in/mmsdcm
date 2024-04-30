@@ -1,0 +1,4 @@
+ID,CwInput,Vrest,Tau,Vth,MaxFreq,La,type,H,Name,RegionID_VSDI,RegionID_CaI,RegionID_BOLD,obs_VSDI,obs_CaI,obs_BOLD
+E11,1,-65,128,-40,30,0.4,E,27.18,E_n1,1,1,1,1,1,0
+E12,0,-65,128,-40,30,0.4,E,27.18,E_n2,1,2,1,1,2,0
+I11,1,-65,128,-40,30,0.2,I,27.18,I_n1,1,3,1,1,3,0
